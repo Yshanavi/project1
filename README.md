@@ -45,9 +45,6 @@ The target column for analysis is identified as **`UFO_test_combined`**, which t
 - Machine learning frameworks: Scikit-learn, TensorFlow, or PyTorch.
 - Feature engineering and statistical analysis.
 
-## Gudie
-- **Henrik Meyer**
-
 ## References
 1. [UFOpro Overview](https://www.humaneticsgroup.com/products/active-safety-test-equipment/ufopro-ultra-flat-overrunable-robot-platform/ufopro-standard)
 2. [Predictive Maintenance in Automotive](https://doi.org/10.3390/mca27010002)
