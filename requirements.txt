@@ -1,0 +1,9 @@
+pandas
+notebook
+numpy
+scikit-learn
+matplotlib
+seaborn
+Flask
+joblib
+-e .
