@@ -1,0 +1,1 @@
+from src.project1.config import configuration
